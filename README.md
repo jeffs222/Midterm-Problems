@@ -1,1 +1,2 @@
 # Midterm-Problems
+This program is a simple Tkinter-based GUI application that displays campus-related information using buttons and a formatted output area. It loads data from a CSV file and allows the user to view categories such as calendar dates, buildings, and faculty names. The interface includes a logo, clearly labeled buttons, and a dedicated text display section for showing results. The program demonstrates basic GUI design, event-driven functions, CSV reading, and organized information display using Python.
